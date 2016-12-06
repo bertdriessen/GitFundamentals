@@ -1,2 +1,6 @@
 add file1
+<<<<<<< HEAD
 adding yet more code
+=======
+fix1
+>>>>>>> v1.0_fixes
