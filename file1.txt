@@ -4,4 +4,5 @@ adding yet more code
 =======
 fix1
 nog another fix....nog een fix  feature2
+fx1,2,3,4,5,
 >>>>>>> v1.0_fixes
